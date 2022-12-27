@@ -68,8 +68,11 @@ Make sure you have installed [python](https://www.python.org/downloads/).
 **Step 5.** RUN ! Open terminal and type `> python app.py`  
 
 **Extra**  : If you want to add more tables or columns to the db then type in the terminal    
-` > flask shell `  
-` > db.create_all() `   #db for line 16  
+  ```
+    > flask shell 
+    > db.create_all() 
+  ```  
+Here we use `db` for line 16 where we inisialize db as database variable.
  
 # Test 
 
