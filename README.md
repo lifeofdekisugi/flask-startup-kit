@@ -58,18 +58,18 @@ Clone this repo and you are good to go.
 
 Make sure you have installed [python](https://www.python.org/downloads/).
 
-**Step 1.** Clone this repo into your local mechine.
-**Step 2.** Open downloaded/cloned folder using any code editor.
-**Step 3.** Activate virtual enviroment. Open terminal and type `./venv/Scripts/Activate.ps1`
-> **Note** : If you have deleted venv folder then you can skip step 3.
+**Step 1.** Clone this repo into your local mechine.  
+**Step 2.** Open downloaded/cloned folder using any code editor.  
+**Step 3.** Activate virtual enviroment. Open terminal and type `./venv/Scripts/Activate.ps1`  
+> **Note** : If you have deleted venv folder then you can skip  
 
-**Step 4.** Install all libraries. Open terminal and type `> pip install -r requirements.txt`  
+**Step 4.** Install all libraries. Open terminal and type `> pip install -r requirements.txt`    
 
-**Step 5.** RUN ! Open terminal and type `> python app.py`
+**Step 5.** RUN ! Open terminal and type `> python app.py`  
 
-**Extra**  : If you want to add more tables or columns to the db then type in the terminal  
+**Extra**  : If you want to add more tables or columns to the db then type in the terminal    
 ` > flask shell `  
-` > db.create_all() `   #db for line 16
+` > db.create_all() `   #db for line 16  
  
 # Test 
 
