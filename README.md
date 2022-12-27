@@ -5,7 +5,8 @@
 
 Hi! I'm **Shahir Islam** your helper for flask startup kit.
 
-Clone this repo and you are good to go.  
+If you just want backend web response then just clone this repo and you are good to go.  
+This is the first JWT authintication auth based starter kit. You are welcome mate !
 
 
 ## Summary
