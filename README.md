@@ -45,13 +45,13 @@ Clone this repo and you are good to go.
   
 ## Before you Start
 
---> Use this repo for only backend perpous.
---> There is no front-end.
---> This is a starter kit with JWT based auth system.
---> I used `sql-lite` as database.
+--> Use this repo for only backend perpous.  
+--> There is no front-end.  
+--> This is a starter kit with JWT based auth system.  
+--> I used `sql-lite` as database.  
   
 
->  **Note:** You can use **db** as your wish.
+> **Note** : You can use **db** as your wish.
 
   
 ## Installetion
@@ -61,15 +61,15 @@ Make sure you have installed [python](https://www.python.org/downloads/).
 **Step 1.** Clone this repo into your local mechine.
 **Step 2.** Open downloaded/cloned folder using any code editor.
 **Step 3.** Activate virtual enviroment. Open terminal and type `./venv/Scripts/Activate.ps1`
->  **Note:** If you have deleted venv folder then you can skip step 3.
+> **Note** : If you have deleted venv folder then you can skip step 3.
 
 **Step 4.** Install all libraries. Open terminal and type `> pip install -r requirements.txt`  
 
 **Step 5.** RUN ! Open terminal and type `> python app.py`
 
 **Extra**  : If you want to add more tables or columns to the db then type in the terminal  
-`> flask shell`
- `> db.create_all()` #db for line 16
+` > flask shell `  
+` > db.create_all() `   #db for line 16
  
 ## Test 
 
