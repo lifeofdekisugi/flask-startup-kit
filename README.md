@@ -35,7 +35,7 @@ Clone this repo and you are good to go.
 
   
 
-## Files and Folders
+# Files and Folders
 
   - __pycache__ : This is a default folder you don't need to look at it.
   - **instance** : This folder is for Database
@@ -43,7 +43,7 @@ Clone this repo and you are good to go.
   - **requirements** : This is a text file and this contains every package you need to install in one place.
   - **app** : This is a python file and this contains our main code. 
   
-## Before you Start
+# Before you Start
 
 --> Use this repo for only backend perpous.  
 --> There is no front-end.  
@@ -54,7 +54,7 @@ Clone this repo and you are good to go.
 > **Note** : You can use **db** as your wish.
 
   
-## Installetion
+# Installetion
 
 Make sure you have installed [python](https://www.python.org/downloads/).
 
@@ -71,7 +71,7 @@ Make sure you have installed [python](https://www.python.org/downloads/).
 ` > flask shell `  
 ` > db.create_all() `   #db for line 16
  
-## Test 
+# Test 
 
 - You need any web response reader software. (Postman, Insomnia, API Tester) I'm using Postman
 - After running `> python app.py` you should see an IP:port 
@@ -93,7 +93,7 @@ You will get a token when you login.
 
 > **Note** : Token will expayre after 1 hour you can change this on code line 102. 
 
-## Good Bye
+# Good Bye
 
 Thanks for visiting my repo. If you are having any problem working with this please tweet me [@lifeofdekisugi](https://twitter.com/lifeofdekisugi).
 
